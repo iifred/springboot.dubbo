@@ -1,6 +1,6 @@
-package com.springboot.user.controller;
+package com.springboot.controller;
 
-import com.springboot.user.ticket.service.TicketService;
+import com.springboot.ticket.service.TicketService;
 import org.apache.dubbo.config.annotation.Reference;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

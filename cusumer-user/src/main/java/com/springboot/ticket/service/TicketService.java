@@ -1,4 +1,4 @@
-package com.springboot.user.ticket.service;
+package com.springboot.ticket.service;
 
 public interface TicketService {
     public String getTicket();

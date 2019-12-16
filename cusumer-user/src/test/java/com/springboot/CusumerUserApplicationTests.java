@@ -1,4 +1,4 @@
-package com.springboot.user;
+package com.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
